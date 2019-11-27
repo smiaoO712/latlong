@@ -39,6 +39,7 @@ class Extension extends BaseExtension
 
         //$name = Extension::config('default', $name);
         //$args = Extension::config("providers.$name", []);
+        //自定义
         $name = config('admin.extensions.latlong.default',$name);
         $args = config("admin.extensions.latlong.providers.$name");
 
