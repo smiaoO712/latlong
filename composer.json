@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/latlong",
+    "name": "latlong",
     "description": "Latitude & Longitude selector",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/latlong",
+    "homepage": "https://github.com/xXys/latlong",
     "license": "MIT",
     "authors": [
         {
-            "name": "z-song",
-            "email": "zosong@126.com"
+            "name": "xXys",
+            "email": "964392197@qq.com"
         }
     ],
     "require": {
