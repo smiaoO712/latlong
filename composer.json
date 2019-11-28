@@ -27,5 +27,6 @@
                 "Encore\\Admin\\Latlong\\LatlongServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
